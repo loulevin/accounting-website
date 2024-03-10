@@ -6,7 +6,7 @@ export const Header = () => {
       <div className="flex justify-between">
         <h1 className="text-2xl m-4">Accounting Website</h1>
         <div className="p-3">
-            <ModeToggle />
+          <ModeToggle />
         </div>
       </div>
     </>
