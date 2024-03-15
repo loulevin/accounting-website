@@ -65,9 +65,7 @@ export const PageLogin = () => {
                 </FormItem>
               )}
             />
-           
-              <Button type="submit" className="mt-4 w-full">Login</Button>
-            
+            <Button type="submit" className="mt-4 w-full">Login</Button>
           </form>
         </Form>
       </div>
